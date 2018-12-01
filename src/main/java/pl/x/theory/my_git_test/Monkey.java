@@ -10,4 +10,9 @@ public class Monkey extends Animal {
     public String getName() {
         return super.getName();
     }
+
+    @Override
+    public String toString() {
+        return "Monkey{";
+    }
 }
