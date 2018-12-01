@@ -1,11 +1,11 @@
 package pl.x.theory.my_git_test;
 
-public class Car {
+public class Auto {
 
     private String make;
     private String model;
 
-    public Car(String make, String model) {
+    public Auto(String make, String model) {
         this.make = make;
         this.model = model;
     }
@@ -28,7 +28,7 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car{" +
+        return "Auto{" +
                 "make='" + make + '\'' +
                 ", model='" + model + '\'' +
                 '}';
