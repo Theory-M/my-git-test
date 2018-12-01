@@ -17,5 +17,4 @@ public class Monkey extends Animal {
                 "imie='" + name + '\'' +
                 '}';
     }
-
 }
