@@ -4,6 +4,7 @@ public class Animal {
 
     String name;
     int age;
+    String nick;
 
     public Animal(String name) {
         this.name = name;
